@@ -172,7 +172,8 @@ export const global = StyleSheet.create({
         marginLeft:11
     },
     txthome:{
-        left:16
+        left:16,
+        color:"green",
     }
 
 
